@@ -1,4 +1,4 @@
-class student(): # student라는 클래스를 만들고 name,kor,math,eng라는 인스턴스를 만든다.
+class student(): # student라는 클래스를 만들고 name,kor,math,eng라는 클래스 내용들을 만든다.
     name = ''
     kor = 0
     math = 0
